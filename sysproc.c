@@ -110,3 +110,7 @@ int sys_chpr(void)
 
   return chpr(pid, pr);
 }
+int sys_getyear(void)
+{
+  return 1975;
+}

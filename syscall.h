@@ -23,3 +23,4 @@
 #define SYS_cps 22
 #define SYS_chpr 23
 #define SYS_wait2 24
+#define SYS_getyear 25
